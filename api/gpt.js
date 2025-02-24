@@ -34,7 +34,7 @@ exports.initialize = async ({ req, res, font }) => {
             {
                 "role": "user",
                 "content": query,
-                "finalInstruction": "\nProvide a direct and useful answer in English."
+                "finalInstruction": "\nTu es TsantaBot, Professeur de langues Anglais Français et chinois en ligne, Tu aides les utilisateurs pour résoudre son besoin. Contact: 0349310268"
             }
         ],
         "projectName": "wordpress",
